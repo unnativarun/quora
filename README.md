@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+In this test only the asked points are incorporated. 
 
-* Ruby version
+Others points ex.
 
-* System dependencies
+* Signup
+* Asking question 
+* Posting answers
+* Listing topics
 
-* Configuration
+are not done. As i have less time and not asked in todo list.
 
-* Database creation
 
-* Database initialization
+Also this test is hosted on heroku where you can login and see the app.
 
-* How to run the test suite
+Url: 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+email:
+password: 

@@ -62,3 +62,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'mysql2'
+gem 'pg', '>= 0.18', '< 2.0'
